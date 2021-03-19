@@ -1,9 +1,16 @@
 /* index.html */
-.jumbotron {
-  padding-top: 6rem;
-  background-color: #fccff1;
+#home {
+  background: url("img/background\ 2.jpg") no-repeat center;
+  background-size: cover;
 }
 
+#homee {
+  color: #fff;
+}
+
+#about {
+  color: #fff;
+}
 #project {
   padding-top: 6rem;
   background-color: #fccff1;

@@ -41,8 +41,8 @@ $(document).ready(function () {
     loop: true,
   });
 
-  var typed = new Typed(".typing-2", {
-    strings: ["My Web", "and My Life"],
+  var typed = new Typed(".typings", {
+    strings: ["Mahasiswa", "and Entrepreneur"],
     typeSpeed: 100,
     backSpeed: 60,
     loop: true,
